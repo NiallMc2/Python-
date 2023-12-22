@@ -14,7 +14,7 @@ A repo was created in GitHub, this is a public repo with a README file. Gitignor
 8. A feature branch was created and the project folder Farmer23 with additional files was added
 9. Branch test and Feature_Branch were both deleted after a successful merger
 10. VSC and GitHub were used to Sync the changes
-11. 
+
 
 
 
