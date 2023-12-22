@@ -12,8 +12,9 @@ A repo was created in GitHub, this is a public repo with a README file. Gitignor
 6. The local branch main was pushed to the remote repo named origin and the upstream branch was set
 7. Additional branchs were created (dev and test)
 8. A feature branch was created and the project folder Farmer23 with additional files was added
-9. These changes were then merged from the feature branch
+9. Branch test and Feature_Branch were both deleted after a successful merger
 10. VSC and GitHub were used to Sync the changes
+11. 
 
 
 
